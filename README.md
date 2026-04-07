@@ -1,2 +1,8 @@
-# Phonesky
-Build Apps Android app and iOS app 
+Bash 
+git init
+git add .
+git commit -m "nandbox clone"
+
+git branch -M main
+git remote add origin https://github.com/Phonesky/nandbox-clone.git
+git push -u origin main
